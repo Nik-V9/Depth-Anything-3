@@ -5,7 +5,7 @@ torchvision
 einops
 huggingface_hub
 imageio
-numpy<2
+numpy
 opencv-python
 xformers
 open3d
